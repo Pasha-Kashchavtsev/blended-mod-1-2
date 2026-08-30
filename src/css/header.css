@@ -1,1 +1,17 @@
 /* Сюди додавай стилі частинки Header */
+.cap {
+  background-color: #fbfbfb;
+}
+
+.logo {
+  color: #1b414b;
+}
+
+.button-nav {
+  background-color: #1b414b;
+}
+
+.button-nav a {
+  color: #fbfbfb;
+  text-transform: uppercase;
+}
