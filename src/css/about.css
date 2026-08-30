@@ -1,1 +1,7 @@
 /* Сюди додавай стилі частинки About */
+.about {
+    background-color: #0e1823;;
+}
+ul {
+    list-style-type: none;
+}
